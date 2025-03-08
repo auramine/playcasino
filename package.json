@@ -60,6 +60,7 @@
     "zod": "^3.24.1",
     "@types/react": "latest",
     "@types/react-dom": "latest"
+    "@supabase/supabase-js": "^2.0.0"
   },
   "devDependencies": {
     "@types/node": "^22",
